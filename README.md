@@ -27,7 +27,7 @@ brew reinstall boost-python --with-python3 --without-python
 - in folder keras-facenet/model/keras copy this model
 https://www.dropbox.com/s/o65ow1cl3lcwd1o/facenet_keras.h5?dl=0
 
-# 4. How to run facer_simple
+# 4. How to run facer-simple
 
 In a folder called "facer" copy the following files:
 - main.py
@@ -51,10 +51,10 @@ from keras.models import load_model
 # 6. Inputs
 - Query Image: Query_6.png
 
-![Query Image: Query_6.png](https://github.com/domingomery/facer_simple/blob/master/Query_6.png)
+![Query Image: Query_6.png](https://github.com/domingomery/facer-simple/blob/master/Query_6.png)
 
 - Session Image: Session_3.png
-![Session Image: Session_3.png](https://github.com/domingomery/facer_simple/blob/master/Session_3.png)
+![Session Image: Session_3.png](https://github.com/domingomery/facer-simple/blob/master/Session_3.png)
 
 # 7. Output
 - Is the person in the Query Image present in the Session Image?
@@ -83,7 +83,7 @@ from keras.models import load_model
 
 `[facer] : face #6 was detected with score = 0.9555754407241641`
 
-![Detection Image](https://github.com/domingomery/facer_simple/blob/master/detection.png)
+![Detection Image](https://github.com/domingomery/facer-simple/blob/master/detection.png)
 
 References:
 - Mery, D.; Mackenney, I.; and Villalobos, E. [Student Attendance System in Crowded Classrooms using a Smartphone Camera](http://dmery.sitios.ing.uc.cl/Prints/Conferences/International/2019-WACV.pdf). In 2019 IEEE Winter Conference on Applications of Computer Vision (WACV2017), 2019.
