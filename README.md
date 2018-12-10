@@ -1,5 +1,5 @@
 # facer_simple
-Simple face recognition in a picture with many persons. The idea of this code is to verify is the subject present in the query image is present in the session image. In this simple example, the query image is Query_6.png and the session image is Session_3.png. The result is shown in [detection.png]((https://github.com/domingomery/facer-simple/blob/master/detection.png).
+Simple face recognition in a picture with many persons. The idea of this code is to verify is the subject present in the query image is present in the session image. In this simple example, the query image is Query_6.png and the session image is Session_3.png. The result is shown in [detection.png](https://github.com/domingomery/facer-simple/blob/master/detection.png).
 
 # 1. What to install before
 - Install Homebrew
